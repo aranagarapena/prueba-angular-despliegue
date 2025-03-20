@@ -1,5 +1,5 @@
 {
-  "name": "prueba-despliegue-angular",
+  "name": "prueba-despliegue",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
